@@ -14,5 +14,6 @@ Weekly training log for a System Architecture Researcher
 ## Projects
 
 | Date | Project | Description | Code | Slides |
+|:---:|:---:|---|:---:|:---:|
 | Jan. 2026 - Feb. 2026 | **SCNN Cycle-level Simulator** | Developed a highly configurable cycle-level hardware simulator for Cartesian product-based sparse convolution to profile architectural bottlenecks (e.g., multiplier utilization, accumulator bank conflicts) | [Code](https://github.com/WeeklyEpoch/SCNN_Simulator) | [Slides](slides/2026_SCNN_Simulator.pdf) |
-| Feb. 2026 - Present | **N/A** | |:---:|:---:|
+| Feb. 2026 - Present | **N/A** | | | |
